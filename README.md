@@ -1,3 +1,25 @@
+# ⚙️ React CRUD App with Tailwind CSS
+
+A simple and responsive **CRUD (Create, Read, Update, Delete)** application built using **React** and styled with **Tailwind CSS**. This app helps manage a list of users/items dynamically with intuitive UI interactions.
+
+## ✨ Features
+
+- ➕ Add new entries
+- 📋 View existing entries in a list/table
+- ✏️ Edit/update entries inline or via modal
+- ❌ Delete entries
+- 💅 Responsive UI with Tailwind CSS
+- ♻️ State management using React Hooks (`useState`, `useEffect`)
+
+## 🔧 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- Optional: **LocalStorage** or **JSON-server** (for persistence)
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
